@@ -60,8 +60,8 @@ CGPA: 3.37 / 4.0
 ---
 
 ## PUBLICATIONS
-· *The Modeling and Verification of Trainify* – IJEMDCS Journal, 2022
-      DOI: https://doi.org/10.54938/ijemdcsai.2022.01.2.89
+· *The Modeling and Verification of Trainify* – IJEMDCS Journal, 2022  
+    DOI: https://doi.org/10.54938/ijemdcsai.2022.01.2.89
 
 ---
 
