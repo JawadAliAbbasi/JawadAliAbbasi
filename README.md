@@ -1,11 +1,12 @@
 # Jawad Ali Abbasi
+
 📍 Erlangen, Germany
 📧 engrjawadjunaid@yahoo.com
 🔗 LinkedIn: linkedin.com/in/i-am-jawadaliabbasi
 
 ---
 
-Software engineer and AI developer with production experience building LLM agents, full-stack web applications, and enterprise microservices. At Hitit Computer Services I built and deployed a production LLM agent (Gemini-Flash, function/tool calling) that automated airline distribution workflows, reducing task completion time by over 85%. My work spans agentic AI systems, backend engineering in Python and Java, and full-stack development with TypeScript and React. I focus on building systems that work in the real world — not just demos.
+Software engineer and AI developer with production experience building LLM agents, full-stack web applications, and enterprise microservices. At Hitit Computer Services I built and deployed a production LLM agent (Gemini-Flash, function/tool calling) that automated airline distribution workflows, reducing task completion time by over 85%. My work spans agentic AI systems, backend engineering in Python and Java, and full-stack development with TypeScript and React. I focus on building systems that work in the real world.
 
 ---
 
@@ -54,7 +55,12 @@ Focus: Artificial Intelligence, LLMs, Agentic Systems, Machine Learning
 
 ### Bachelor of Engineering in Software Engineering (2019 – 2023)
 *National University of Sciences and Technology (NUST), Pakistan*
-CGPA: 3.37 / 4.0 · Publication: *The Modeling and Verification of Trainify* – IJEMDCS Journal, 2022
+CGPA: 3.37 / 4.0
+
+---
+
+## PUBLICATIONS
+· *The Modeling and Verification of Trainify* – IJEMDCS Journal, 2022
 
 ---
 
